@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="title_1">sailing under golden gate bridge</string>
+    <string name="artist_1">Mitchell Funk</string>
+    <string name="year_1">2017</string>
+
+    <string name="title_2">still life of blue rose and other flowers</string>
+    <string name="artist_2">Owen Scott</string>
+    <string name="year_2">2021</string>
+
+    <string name="title_3">
+Une montgolfière volant dans le ciel au coucher du soleil</string>
+    <string name="artist_3">Ikram Raboudi</string>
+    <string name="year_3">2025</string>
+
+    <string name="previous">Précédent</string>
+    <string name="next">Suivant</string>
+
+    <string name="artwork_description">Image de l\'œuvre d\'art</string>
+</resources>
