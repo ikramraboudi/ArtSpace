@@ -89,11 +89,7 @@ fun ArtSpaceApp(modifier: Modifier = Modifier) {
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.SpaceBetween
     ) {
-        // Mur d'œuvres d'art
-        ArtworkWall(
-            imageResource = imageResource,
-            modifier = Modifier.weight(1f, fill = false)
-        )
+        ArtworkWall(imageResource = imageResource)
 
         Spacer(modifier = Modifier.height(16.dp))
 
